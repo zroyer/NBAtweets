@@ -7,7 +7,7 @@ body{
   margin: 0;
   padding: 0 0 40px 0;
   color: white;
-  background: #afb99f;
+  background: #0067b1;
 }
 
 .loader{
@@ -33,7 +33,7 @@ body{
 .notification-bar
 {
   color: white;
-  background: rgba(255,85,68,.9);
+  background: rgba(237,23,79,.9);
   text-align: center;
   width: 100%;
   font-size: 16px;
@@ -59,9 +59,8 @@ body{
 
 .tweets
 {
-  max-width: 600px;
+  max-width: 75%;
   margin: 0 auto;
-  padding: 0 20px;
 }
 
 .tweet
@@ -72,7 +71,7 @@ body{
   max-height: 0px;
   margin: 0;
   list-style-type: none;
-  color: #2c3e50;
+  color: #333;
   border-radius: 3px;
   background: white;
   box-shadow: 0 3px 0 #eee;
@@ -80,7 +79,7 @@ body{
 
 .tweet.active
 {
-  max-height: 125px;
+  max-height: 150px;
   margin: 20px 0;
   -webkit-transition: 1s all ease;
      -moz-transition: 1s all ease;
@@ -121,7 +120,7 @@ body{
   display: inline-block;
   margin-right: 5px;
   text-decoration: none;
-  color: #1abc9c;
+  color: #333;
 }
 
 .tweet blockquote cite a:hover{
@@ -131,7 +130,7 @@ body{
 .tweet blockquote .screen-name{
   font-size: 13px;
   font-weight: normal;
-  color: #ccc;
+  color: #555;
 }
 
 .tweet blockquote .content{
