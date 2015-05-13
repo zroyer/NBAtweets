@@ -4,5 +4,5 @@ var initialState = JSON.parse(document.getElementById('initial-state').innerHTML
 
 React.renderComponent(
   <TweetsApp tweets={initialState}/>,
-  document.getElementById('react-app')
+  document.getElementById('react-element')
 );
