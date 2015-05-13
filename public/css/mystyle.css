@@ -3,7 +3,6 @@
 }
 
 body{
-  font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
   margin: 0;
   padding: 0 0 40px 0;
   color: white;
@@ -36,10 +35,11 @@ body{
   background: rgba(237,23,79,.9);
   text-align: center;
   width: 100%;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   position: fixed;
-  top: -60px;
+  padding-top: 20px;
+  top: -80px;
   -webkit-transition: 300ms top ease;
      -moz-transition: 300ms top ease;
       -ms-transition: 300ms top ease;
@@ -72,7 +72,7 @@ body{
   margin: 0;
   list-style-type: none;
   color: #333;
-  border-radius: 3px;
+  border-radius: 2px;
   background: white;
   box-shadow: 0 3px 0 #eee;
 }
