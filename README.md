@@ -1,5 +1,5 @@
-![Alt url](./public/img/nbaplayoffs.jpg)
 # NBA Tweets
+![Alt url](./public/img/nbaplayoffs.jpg)
 
 Real-time Twitter stream for the NBA Playoffs - built with React, Express, Node, and socket.io
 
@@ -12,9 +12,9 @@ Make sure you have MongoDB and Node.js installed. Navigate to the root directory
 npm install
 ```
 
-Inside of the server directory, create a `/data/db` path.
+Inside of the root directory, create a `/data/db` path.
 
-From the server directory, start your Mongo database:
+From the root directory, start your Mongo database:
 
 ```
 mongod --dbpath data/db
