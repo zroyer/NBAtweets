@@ -1,6 +1,13 @@
 # NBA Tweets
-Real-time Twitter stream for the NBA Playoffs - built with React, Express, Node, and socket.io
-![Alt url](./public/img/nbaplayoffs.jpg)
+Real-time Twitter stream ~~for the NBA Playoffs~~ *OFFSEASON EDITION!* 
+
+Keep up with all the latest draft rumors, free agent signings, trade reports, and  around the NBA! The 2015 NBA Summer League comes to Orlando July 4-10, Salt Lake City July 6-9 and Las Vegas July 10-20.
+
+![Alt url](./public/img/NBAsummerleage.jpg)
+
+##Technology Stack
+
+React, Express, Node, and socket.io
 
 ## Setup
 
