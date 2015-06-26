@@ -27,6 +27,6 @@ var server = http.createServer(app).listen(port, function() {
 
 var io = require('socket.io').listen(server)
 
-twitterstream.stream('statuses/filter',{ track: '#NBAPlayoffs'}, function(stream){
+twitterstream.stream('statuses/filter',{ track: '#NBA, #NBADraft, #NBASummerLeague, #WojBomb'}, function(stream){
   streamHandler(stream,io)
 });
