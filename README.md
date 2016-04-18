@@ -1,6 +1,5 @@
 # NBA Tweets
-Real-time Twitter stream ~~for the NBA Playoffs~~ **OFFSEASON EDITION!** 
-
+Real-time Twitter stream for the 2016 NBA Playoffs
 Keep up with all the latest draft rumors, free agent signings, and trade reports around the NBA! 
 The 2015 NBA Summer League comes to Orlando July 4-10, Salt Lake City July 6-9, and Las Vegas July 10-20.
 
