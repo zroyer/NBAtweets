@@ -1,13 +1,8 @@
 # NBA Tweets
-Real-time Twitter stream for the 2016 NBA Playoffs
+Real-time Twitter stream for the 2016 NBA Playoffs - React, Express, Node, and socket.io
 
 ![Alt url](./public/img/nbaplayoffs2.jpg)
 
-
-
-##Technology Stack
-
-React, Express, Node, and socket.io
 
 ## Setup
 
